@@ -1,0 +1,358 @@
+.bg {
+    width: 1260px;
+    height: 880px;
+    background-color: #edf2c5;
+}
+
+/* ---------------------header--------------------- */
+.head-title {
+    display: flex;
+    flex-direction: row;
+}
+
+/* ---------------------title----------------------- */
+.logo_Vegetables {
+    width: 271px;
+    height: 42px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin: 0;
+    margin-top: 53px;
+    margin-left: 159px;
+}
+
+.btn_facebook {
+    width: 25px;
+    height: 25px;
+    margin-top: 61px;
+    margin-left: 469px;
+}
+
+.btn_instagram {
+    width: 25px;
+    height: 25px;
+    margin-top: 61px;
+    margin-left: 10px;
+}
+
+.line_login {
+    width: 1px;
+    height: 25px;
+    background-color: #778a50;
+    margin-top: 61px;
+    margin-left: 10px;
+}
+
+.btn_LOGIN_box {
+    width: 60px;
+    height: 25px;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
+.btn_LOGIN {
+    width: 43px;
+    height: 10px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    /* line-height: 2.57; */
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin: 0;
+    margin-top: 5px; /* !!!!! */
+    margin-left: 8px;
+}
+
+.btn_JOIN_box {
+    width: 50px;
+    height: 25px;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+    margin-top: 61px;
+    margin-left: 10px;
+}
+
+.btn_JOIN {
+    width: 33px;
+    height: 10px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin-top: 5px; /* !!!!! */
+    margin-left: 9px;
+}
+
+/* --------------------------nav------------------------ */
+.nav_box {
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-left: 160px;
+    margin-top: 8px;
+}
+
+/* --------------------------list------------------------ */
+.nav_box_list {
+    width: 940px;
+    height: 44px;
+    margin: 0;
+    padding-left: 30px;
+}
+
+.nav_box_list li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+.Home {
+    width: 50px;
+    height: 12px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.About-Us {
+    width: 80px;
+    height: 12px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.Vegetables {
+    width: 99px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.Online {
+    width: 55px;
+    height: 12px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.Contact {
+    width: 69px;
+    height: 12px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+/* ------------------------article--------------------- */
+.article {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+/* ----------------------vegetables--------------------- */
+.body_vegetables {
+    margin-left: 160px;
+}
+
+.body_box_vegetables {
+    width: 445px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+.box_vegetables {
+    width: 99px; 
+    height: 15px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-top: 10px; /* !!!!! */
+    margin-left: 30px;
+    margin-right: 0;
+    
+}
+
+.vegetables_pics {
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+
+.img_vegetables_pepper {
+    width: 140px;
+    height: 140px;
+}
+
+.img_vegetables_carrot {
+    width: 140px;
+    height: 140px;
+}
+
+.img_vegetables_corn {
+    width: 140px;
+    height: 140px;
+}
+
+/* ----------------------contact--------------------- */
+.body_box_contact {
+    width: 445px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-top: 30px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.body_box_contact_text {
+    width: 445px;
+    height: 140px;
+    border-radius: 3px;
+    background-color: #f7fbda;
+    margin-left: 51px;
+    margin-top: 15px;
+}
+
+.box_contact {
+    width: 69px;
+    height: 12px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-top: 10px; /* !!!!! */
+    margin-left: 30px;
+}
+
+.contact-text {
+    width: 410px;
+    height: 43px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    padding-top: 16px;
+    padding-left: 15px
+}
+
+.line_contact_text {
+    width: 414px;
+    height: 1px;
+    background-color: #7d7d7d;
+    margin-left: 16px;
+}
+
+.contact-email-phone {
+    width: 193px;
+    height: 31px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    margin-left: 16px;
+}
+
+/* -----------------------footer------------------------ */
+.box_footer {
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.Copyrights-2017-Vegetables-cise-Design-by-Vegetables {
+    width: 302px;
+    height: 11px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
